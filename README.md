@@ -47,6 +47,9 @@ RegisterNumber:
 ## AndroidMainfest.xml
 
 ## OUTPUT:
+![image](https://github.com/praveenst13/SMS_Intent/assets/118787793/fca53cd2-18d8-46ef-a377-053958d09806)
+
+![image](https://github.com/praveenst13/SMS_Intent/assets/118787793/92c213c5-8660-440e-874f-9df5d4b2e068)
 
 
 
